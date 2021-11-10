@@ -1,0 +1,16 @@
+{
+"companyName": "CandyCompany",
+"productName": "Destory Bricks",
+"productVersion": "0.1",
+"dataUrl": "t.data.unityweb",
+"wasmCodeUrl": "t.wasm.code.unityweb",
+"wasmFrameworkUrl": "t.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1c1"
+}
